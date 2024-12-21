@@ -26,7 +26,7 @@ A modern and interactive web-based calculator built with **HTML**, **CSS**, and 
 
 ## Demo
 
-![Calculator Screenshot](https://via.placeholder.com/800x400) 
+![Calculator Screenshot]([https://via.placeholder.com/800x400](https://github.com/Peolunics/Calulator-Project/blob/main/calculator-project-screenshot.jpg)) 
 
 ---
 
